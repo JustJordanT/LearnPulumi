@@ -1,0 +1,7 @@
+config:
+  PulumiFundamentals:backend_port: "3003"
+  PulumiFundamentals:database: cart
+  PulumiFundamentals:frontend_port: "3002"
+  PulumiFundamentals:mongo_host: mongodb://mongo:27018
+  PulumiFundamentals:mongo_port: "27018"
+  PulumiFundamentals:node_environment: development

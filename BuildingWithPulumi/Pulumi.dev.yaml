@@ -1,0 +1,10 @@
+config:
+  PulumiFundamentals:backend_port: "3000"
+  PulumiFundamentals:database: cart
+  PulumiFundamentals:frontend_port: "3001"
+  PulumiFundamentals:mongo_host: mongo
+  PulumiFundamentals:mongo_password:
+    secure: AAABAG6aosRmX7ipnc+yCPY40kTTOi0Kc0l0Mj1WNMtmCUiF9JQ=
+  PulumiFundamentals:mongo_port: "27017"
+  PulumiFundamentals:mongo_username: "admin"
+  PulumiFundamentals:node_environment: development
